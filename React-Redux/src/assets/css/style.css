@@ -1,0 +1,11 @@
+body{
+    background: #dedede;
+}
+
+.todoTitle{
+
+    font-size: 26px;
+    font-weight: bold;
+    font-family: arial;
+
+}
